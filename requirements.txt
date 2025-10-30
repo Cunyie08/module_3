@@ -4,3 +4,8 @@ pydantic
 uvicorn
 dotenv
 scipy
+sqlalchemy
+pymysql
+scikit-learn
+cryptography
+alembic
