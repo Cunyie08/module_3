@@ -9,3 +9,7 @@ pymysql
 scikit-learn
 cryptography
 alembic
+imbalanced-learn
+xgboost
+lightgbm
+shap
